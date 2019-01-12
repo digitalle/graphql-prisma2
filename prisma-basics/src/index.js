@@ -15,14 +15,14 @@ const resolvers = {
             return 'this is a query'
         }
     }
-}
+};
 
 const server = new GraphQLServer({
     typeDefs: typeDefs,
     resolvers: resolvers
-})
+});
 
 
 server.start( () => {
     console.log("is up");
-})
+});
