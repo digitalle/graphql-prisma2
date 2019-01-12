@@ -1,0 +1,4 @@
+.idea/*
+prisma-basics/node_modules
+node_modules
+nodemon.json
