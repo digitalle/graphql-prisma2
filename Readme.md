@@ -1,1 +1,1 @@
-#Advertures with GraphQL & Prisma
+# Advertures with GraphQL & Prisma
